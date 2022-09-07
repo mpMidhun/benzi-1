@@ -220,6 +220,17 @@ a:hover {
   display: inline-block;
 }
 
+.socials .ico-circle-In {
+  height: 40px;
+  width: 40px;
+  font-size: 1.2rem;
+  border-radius: 50%;
+  line-height: 1.6;
+  margin: 0 15px 0 0;
+  box-shadow: 0 0 0 3px #0078ff;
+  transition: all 500ms ease;
+}
+
 .socials .ico-circle {
   height: 40px;
   width: 40px;
@@ -273,6 +284,18 @@ a:hover {
   display: block;
 }
 
+/*------/ Ico Circle /------*/
+.ico-circle-in {
+  height: 50px;
+  width: 50px;
+  font-size: 2rem;
+  border-radius: 100%;
+  line-height: .55;
+  margin: 0 auto;
+  text-align: center;
+  box-shadow: 0 0 0 1px #041b36;
+  display: block;
+}
 /*------/ Owl Carousel /------*/
 .owl-theme .owl-dots {
   text-align: center;
